@@ -1,5 +1,3 @@
-# Predicting-Customer-Churn-in-Digital-Marketing
-
 # Predicting Customer Churn in Digital Marketing
 
 ## Overview
