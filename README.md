@@ -18,4 +18,4 @@ This project predicts customer churn using machine learning to help businesses r
 - M Sujit Reddy
 - Abhaya Aditya.Ch
 - Adithya Reddy
-
+- Sathvik Chowdary
